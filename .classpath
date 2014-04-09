@@ -2,9 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-<<<<<<< HEAD
 	<classpathentry kind="lib" path="/nunoit-util/lib/lombok.jar"/>
-=======
->>>>>>> 0f7db1d11430b22e4f244eb03dd4a4f3b1d164fb
 	<classpathentry kind="output" path="bin"/>
 </classpath>
